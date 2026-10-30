@@ -1,0 +1,501 @@
+Transaction_ID,Transaction_Date,Transaction_Time,Customer_ID,City,Payment_Method,Merchant_Category,Transaction_Amount_INR,Transaction_Status,Device_Type,Is_Weekend
+TXN00001,2026-09-06,15:30:00,CUST0081,Delhi,Debit Card,Healthcare,1898.75,Success,Android,True
+TXN00002,2026-08-05,22:41:00,CUST0017,Bengaluru,Net Banking,Groceries,949.79,Success,Android,False
+TXN00003,2026-04-06,01:31:00,CUST0050,Chennai,Net Banking,Shopping,2037.69,Success,Android,False
+TXN00004,2026-01-17,12:40:00,CUST0012,Delhi,UPI,Utilities,812.42,Success,Android,True
+TXN00005,2026-07-14,18:34:00,CUST0114,Hyderabad,Credit Card,Education,30.0,Success,iOS,False
+TXN00006,2026-04-28,15:31:00,CUST0113,Pune,Debit Card,Groceries,837.49,Success,Android,False
+TXN00007,2026-09-28,21:26:00,CUST0039,Delhi,UPI,Utilities,1043.98,Success,Android,False
+TXN00008,2026-07-10,11:39:00,CUST0044,Chennai,Debit Card,Food Delivery,228.6,Success,Android,False
+TXN00009,2026-05-28,16:45:00,CUST0048,Hyderabad,UPI,Education,3382.3,Success,Android,False
+TXN00010,2026-09-27,10:55:00,CUST0134,Bengaluru,UPI,Travel,2064.56,Pending,Android,True
+TXN00011,2026-08-07,20:36:00,CUST0074,Bengaluru,UPI,Utilities,838.43,Success,iOS,False
+TXN00012,2026-05-06,02:06:00,CUST0115,Pune,Debit Card,Shopping,2800.23,Success,Web,False
+TXN00013,2026-01-06,06:35:00,CUST0068,Delhi,UPI,Food Delivery,167.05,Success,Android,False
+TXN00014,2026-01-26,02:18:00,CUST0105,Chennai,UPI,Healthcare,2501.2,Failed,Web,False
+TXN00015,2026-05-02,16:01:00,CUST0080,Bengaluru,UPI,Travel,1038.92,Success,Android,True
+TXN00016,2026-06-03,05:04:00,CUST0042,Hyderabad,UPI,Shopping,1543.93,Success,iOS,False
+TXN00017,2026-01-09,07:35:00,CUST0132,Mumbai,UPI,Shopping,4103.72,Success,iOS,False
+TXN00018,2026-02-04,20:56:00,CUST0107,Hyderabad,Debit Card,Education,4823.39,Failed,iOS,False
+TXN00019,2026-07-12,08:30:00,CUST0116,Chennai,UPI,Education,3340.55,Success,iOS,True
+TXN00020,2026-07-25,03:26:00,CUST0143,Mumbai,Debit Card,Utilities,634.44,Success,Android,True
+TXN00021,2026-01-09,00:05:00,CUST0038,Delhi,Debit Card,Shopping,1676.02,Failed,Android,False
+TXN00022,2026-05-19,05:40:00,CUST0014,Bengaluru,UPI,Travel,2892.33,Success,Android,False
+TXN00023,2026-01-23,21:03:00,CUST0088,Pune,UPI,Travel,2847.28,Success,Android,False
+TXN00024,2026-07-17,13:50:00,CUST0049,Chennai,Credit Card,Travel,2685.5,Success,iOS,False
+TXN00025,2026-08-16,23:48:00,CUST0066,Delhi,UPI,Groceries,640.98,Success,Android,True
+TXN00026,2026-08-26,05:59:00,CUST0036,Hyderabad,UPI,Utilities,993.88,Success,Android,False
+TXN00027,2026-06-13,08:17:00,CUST0060,Bengaluru,Mobile Wallet,Travel,983.11,Success,Android,True
+TXN00028,2026-06-21,03:09:00,CUST0059,Hyderabad,Mobile Wallet,Healthcare,1304.87,Success,Android,True
+TXN00029,2026-09-10,09:17:00,CUST0053,Hyderabad,Debit Card,Utilities,1552.74,Success,iOS,False
+TXN00030,2026-06-17,13:47:00,CUST0112,Delhi,UPI,Shopping,845.35,Success,Android,False
+TXN00031,2026-05-02,19:13:00,CUST0089,Delhi,Credit Card,Utilities,1006.17,Success,Android,True
+TXN00032,2026-07-25,08:53:00,CUST0072,Pune,Debit Card,Food Delivery,265.07,Success,Android,True
+TXN00033,2026-06-11,18:09:00,CUST0017,Bengaluru,UPI,Groceries,682.57,Success,Android,False
+TXN00034,2026-08-18,15:02:00,CUST0086,Bengaluru,Credit Card,Travel,2310.32,Success,Android,False
+TXN00035,2026-05-24,07:13:00,CUST0027,Bengaluru,UPI,Healthcare,2830.21,Success,iOS,True
+TXN00036,2026-08-26,21:45:00,CUST0048,Hyderabad,UPI,Education,3929.48,Failed,Android,False
+TXN00037,2026-01-13,10:36:00,CUST0063,Hyderabad,Credit Card,Travel,1147.13,Success,Android,False
+TXN00038,2026-01-10,03:21:00,CUST0022,Bengaluru,UPI,Groceries,846.33,Success,Android,True
+TXN00039,2026-01-28,23:39:00,CUST0059,Hyderabad,UPI,Healthcare,1107.39,Success,Web,False
+TXN00040,2026-06-01,21:38:00,CUST0041,Delhi,Debit Card,Utilities,814.39,Success,iOS,False
+TXN00041,2026-07-13,01:33:00,CUST0128,Bengaluru,Mobile Wallet,Shopping,2510.68,Success,Android,False
+TXN00042,2026-03-01,21:30:00,CUST0129,Chennai,Credit Card,Healthcare,1323.81,Success,Android,True
+TXN00043,2026-02-12,22:06:00,CUST0001,Delhi,Debit Card,Education,4485.71,Success,Android,False
+TXN00044,2026-08-23,19:15:00,CUST0091,Bengaluru,Mobile Wallet,Education,2084.71,Success,Web,True
+TXN00045,2026-07-24,06:31:00,CUST0097,Chennai,UPI,Food Delivery,303.02,Success,Android,False
+TXN00046,2026-06-27,15:08:00,CUST0057,Chennai,UPI,Healthcare,1197.88,Success,Android,True
+TXN00047,2026-05-14,12:28:00,CUST0071,Bengaluru,UPI,Utilities,820.01,Success,Web,False
+TXN00048,2026-04-25,14:07:00,CUST0119,Bengaluru,UPI,Utilities,1644.1,Success,iOS,True
+TXN00049,2026-01-06,14:47:00,CUST0057,Delhi,Debit Card,Education,4105.47,Success,Android,False
+TXN00050,2026-02-21,15:06:00,CUST0010,Hyderabad,UPI,Travel,4954.53,Success,Android,True
+TXN00051,2026-09-02,12:05:00,CUST0056,Hyderabad,UPI,Food Delivery,848.58,Success,Android,False
+TXN00052,2026-04-03,16:38:00,CUST0039,Hyderabad,UPI,Shopping,1179.59,Success,Android,False
+TXN00053,2026-07-12,12:13:00,CUST0058,Chennai,UPI,Shopping,2269.71,Success,Android,True
+TXN00054,2026-07-12,00:21:00,CUST0035,Delhi,Net Banking,Healthcare,800.21,Success,Web,True
+TXN00055,2026-03-26,00:18:00,CUST0023,Delhi,UPI,Education,2080.25,Success,Web,False
+TXN00056,2026-02-25,22:12:00,CUST0148,Chennai,UPI,Shopping,1576.22,Success,Android,False
+TXN00057,2026-07-08,21:45:00,CUST0020,Bengaluru,UPI,Education,1677.7,Success,Android,False
+TXN00058,2026-01-26,14:41:00,CUST0106,Mumbai,UPI,Education,1685.28,Success,Android,False
+TXN00059,2026-05-16,04:14:00,CUST0108,Hyderabad,Credit Card,Shopping,2057.16,Success,Android,True
+TXN00060,2026-08-31,18:41:00,CUST0093,Hyderabad,UPI,Shopping,995.45,Failed,iOS,False
+TXN00061,2026-07-14,03:42:00,CUST0137,Delhi,UPI,Healthcare,2344.23,Success,Android,False
+TXN00062,2026-07-28,09:32:00,CUST0001,Bengaluru,UPI,Utilities,645.71,Success,Android,False
+TXN00063,2026-01-23,07:34:00,CUST0046,Mumbai,Debit Card,Food Delivery,951.01,Success,Android,False
+TXN00064,2026-02-24,00:56:00,CUST0028,Delhi,Credit Card,Education,2550.01,Success,Android,False
+TXN00065,2026-03-17,19:27:00,CUST0087,Mumbai,Credit Card,Travel,2890.74,Success,Android,False
+TXN00066,2026-03-21,12:23:00,CUST0096,Mumbai,Credit Card,Utilities,458.81,Success,iOS,True
+TXN00067,2026-02-22,07:32:00,CUST0135,Mumbai,Debit Card,Education,5656.77,Success,iOS,True
+TXN00068,2026-09-23,12:50:00,CUST0057,Bengaluru,UPI,Healthcare,2556.42,Success,Android,False
+TXN00069,2026-02-15,00:42:00,CUST0036,Hyderabad,UPI,Shopping,2493.95,Success,iOS,True
+TXN00070,2026-07-13,10:04:00,CUST0139,Bengaluru,Credit Card,Shopping,866.67,Success,Android,False
+TXN00071,2026-06-10,12:27:00,CUST0101,Hyderabad,UPI,Food Delivery,459.82,Success,iOS,False
+TXN00072,2026-06-16,08:44:00,CUST0115,Bengaluru,Debit Card,Travel,1387.0,Success,Android,False
+TXN00073,2026-02-28,19:13:00,CUST0067,Chennai,UPI,Shopping,3647.73,Success,Android,True
+TXN00074,2026-03-25,05:59:00,CUST0068,Hyderabad,Debit Card,Shopping,3001.1,Success,Web,False
+TXN00075,2026-06-15,03:48:00,CUST0059,Hyderabad,Debit Card,Travel,2920.25,Success,Android,False
+TXN00076,2026-03-23,12:50:00,CUST0113,Bengaluru,UPI,Shopping,30.0,Success,Android,False
+TXN00077,2026-07-09,21:04:00,CUST0032,Bengaluru,Net Banking,Utilities,613.21,Success,Android,False
+TXN00078,2026-01-11,09:34:00,CUST0147,Delhi,Credit Card,Utilities,1440.44,Success,Android,True
+TXN00079,2026-01-20,01:31:00,CUST0027,Mumbai,Debit Card,Food Delivery,649.24,Success,Android,False
+TXN00080,2026-07-18,23:37:00,CUST0070,Chennai,UPI,Groceries,974.43,Success,Android,True
+TXN00081,2026-06-18,10:51:00,CUST0048,Delhi,UPI,Education,907.5,Success,Web,False
+TXN00082,2026-01-12,04:21:00,CUST0097,Bengaluru,Credit Card,Groceries,738.2,Success,Android,False
+TXN00083,2026-09-03,14:32:00,CUST0103,Chennai,UPI,Shopping,3205.36,Success,Android,False
+TXN00084,2026-01-02,07:40:00,CUST0138,Hyderabad,UPI,Travel,710.5,Failed,Android,False
+TXN00085,2026-09-18,22:45:00,CUST0119,Hyderabad,Net Banking,Groceries,647.69,Failed,iOS,False
+TXN00086,2026-07-19,07:46:00,CUST0038,Hyderabad,Credit Card,Travel,3145.04,Success,Android,True
+TXN00087,2026-09-27,13:20:00,CUST0031,Delhi,UPI,Education,2766.9,Success,Android,True
+TXN00088,2026-09-17,13:59:00,CUST0133,Bengaluru,UPI,Travel,466.28,Success,Android,False
+TXN00089,2026-03-27,05:00:00,CUST0074,Hyderabad,UPI,Shopping,1877.56,Success,iOS,False
+TXN00090,2026-07-26,11:29:00,CUST0015,Mumbai,UPI,Groceries,554.26,Success,iOS,True
+TXN00091,2026-02-27,02:36:00,CUST0124,Hyderabad,Net Banking,Healthcare,1586.72,Success,Android,False
+TXN00092,2026-05-09,15:03:00,CUST0098,Delhi,UPI,Shopping,1642.16,Success,iOS,True
+TXN00093,2026-03-07,18:27:00,CUST0004,Bengaluru,UPI,Education,2562.06,Success,Android,True
+TXN00094,2026-05-13,22:35:00,CUST0118,Bengaluru,Credit Card,Food Delivery,412.5,Success,Android,False
+TXN00095,2026-08-27,07:36:00,CUST0092,Bengaluru,UPI,Food Delivery,503.62,Pending,Android,False
+TXN00096,2026-04-30,06:07:00,CUST0093,Mumbai,UPI,Education,2761.63,Success,Android,False
+TXN00097,2026-01-26,13:16:00,CUST0130,Bengaluru,Debit Card,Healthcare,1386.62,Success,Android,False
+TXN00098,2026-03-30,16:14:00,CUST0075,Hyderabad,Credit Card,Healthcare,1770.65,Success,Android,False
+TXN00099,2026-08-03,23:38:00,CUST0070,Hyderabad,Mobile Wallet,Education,433.88,Success,Android,False
+TXN00100,2026-05-23,00:19:00,CUST0093,Pune,Credit Card,Food Delivery,510.16,Success,Android,True
+TXN00101,2026-06-02,05:34:00,CUST0030,Pune,UPI,Healthcare,1699.57,Success,Android,False
+TXN00102,2026-04-28,06:43:00,CUST0023,Delhi,Debit Card,Travel,2850.01,Success,iOS,False
+TXN00103,2026-03-21,06:47:00,CUST0127,Hyderabad,Net Banking,Food Delivery,601.58,Success,iOS,True
+TXN00104,2026-06-13,11:11:00,CUST0033,Pune,Debit Card,Groceries,78.8,Success,Android,True
+TXN00105,2026-06-22,20:54:00,CUST0076,Delhi,Mobile Wallet,Healthcare,190.02,Success,Android,False
+TXN00106,2026-09-03,00:09:00,CUST0041,Delhi,Debit Card,Food Delivery,471.75,Success,Android,False
+TXN00107,2026-06-18,19:01:00,CUST0035,Bengaluru,Net Banking,Education,3189.75,Success,Android,False
+TXN00108,2026-09-29,14:02:00,CUST0090,Hyderabad,UPI,Groceries,699.78,Success,Android,False
+TXN00109,2026-08-14,14:12:00,CUST0121,Hyderabad,Debit Card,Food Delivery,332.66,Success,Android,False
+TXN00110,2026-01-22,16:52:00,CUST0067,Pune,UPI,Food Delivery,545.56,Success,iOS,False
+TXN00111,2026-04-18,02:12:00,CUST0021,Bengaluru,Credit Card,Food Delivery,596.27,Success,iOS,True
+TXN00112,2026-04-16,17:41:00,CUST0037,Hyderabad,Credit Card,Travel,3409.82,Success,Android,False
+TXN00113,2026-01-01,05:25:00,CUST0025,Bengaluru,Mobile Wallet,Healthcare,1500.47,Success,Android,False
+TXN00114,2026-02-19,12:02:00,CUST0133,Mumbai,Mobile Wallet,Healthcare,87.62,Success,Web,False
+TXN00115,2026-07-28,16:26:00,CUST0048,Hyderabad,UPI,Education,4307.7,Success,Android,False
+TXN00116,2026-04-07,14:01:00,CUST0057,Chennai,Debit Card,Food Delivery,650.91,Success,iOS,False
+TXN00117,2026-02-10,07:28:00,CUST0011,Delhi,Debit Card,Healthcare,2193.09,Success,Android,False
+TXN00118,2026-03-20,09:33:00,CUST0067,Delhi,UPI,Utilities,664.58,Success,Android,False
+TXN00119,2026-03-16,11:31:00,CUST0138,Bengaluru,UPI,Utilities,1433.53,Success,Android,False
+TXN00120,2026-02-17,00:16:00,CUST0062,Mumbai,UPI,Travel,3884.27,Success,Android,False
+TXN00121,2026-01-28,17:45:00,CUST0098,Mumbai,Debit Card,Education,5444.7,Success,Web,False
+TXN00122,2026-07-28,02:35:00,CUST0028,Delhi,UPI,Healthcare,1029.78,Failed,Android,False
+TXN00123,2026-08-14,11:15:00,CUST0022,Hyderabad,Mobile Wallet,Travel,2514.67,Success,Web,False
+TXN00124,2026-05-16,15:26:00,CUST0110,Bengaluru,UPI,Travel,3741.56,Success,Android,True
+TXN00125,2026-06-18,01:06:00,CUST0010,Hyderabad,Mobile Wallet,Education,3282.67,Failed,iOS,False
+TXN00126,2026-09-08,23:55:00,CUST0068,Mumbai,UPI,Food Delivery,208.83,Success,Web,False
+TXN00127,2026-08-19,09:45:00,CUST0048,Bengaluru,Debit Card,Shopping,2610.47,Success,Android,False
+TXN00128,2026-01-09,00:17:00,CUST0003,Hyderabad,UPI,Travel,3529.11,Success,Android,False
+TXN00129,2026-09-18,15:40:00,CUST0080,Hyderabad,Credit Card,Groceries,675.73,Success,iOS,False
+TXN00130,2026-01-19,13:40:00,CUST0145,Mumbai,Debit Card,Shopping,2417.39,Success,Android,False
+TXN00131,2026-01-08,15:36:00,CUST0011,Hyderabad,Net Banking,Education,2827.46,Success,Web,False
+TXN00132,2026-04-21,18:03:00,CUST0123,Pune,Debit Card,Healthcare,2830.88,Success,Android,False
+TXN00133,2026-07-23,11:52:00,CUST0081,Mumbai,UPI,Utilities,654.16,Success,Android,False
+TXN00134,2026-01-22,19:57:00,CUST0109,Bengaluru,UPI,Shopping,1618.55,Pending,Android,False
+TXN00135,2026-03-21,08:58:00,CUST0015,Mumbai,UPI,Utilities,1105.44,Failed,iOS,True
+TXN00136,2026-03-13,13:58:00,CUST0131,Hyderabad,UPI,Travel,3907.48,Success,Web,False
+TXN00137,2026-04-19,03:55:00,CUST0002,Pune,Credit Card,Utilities,358.8,Success,Android,True
+TXN00138,2026-09-27,14:44:00,CUST0137,Mumbai,Debit Card,Groceries,266.74,Success,iOS,True
+TXN00139,2026-04-01,06:03:00,CUST0099,Chennai,Debit Card,Utilities,91.32,Success,Web,False
+TXN00140,2026-02-27,16:27:00,CUST0051,Hyderabad,Net Banking,Shopping,2232.37,Success,Android,False
+TXN00141,2026-02-03,19:14:00,CUST0002,Mumbai,Debit Card,Travel,1390.93,Failed,Android,False
+TXN00142,2026-02-24,20:13:00,CUST0092,Mumbai,Debit Card,Healthcare,1405.82,Success,iOS,False
+TXN00143,2026-02-06,22:49:00,CUST0014,Pune,UPI,Healthcare,2205.95,Success,iOS,False
+TXN00144,2026-06-06,02:48:00,CUST0092,Mumbai,UPI,Travel,1991.66,Success,Android,True
+TXN00145,2026-04-25,03:31:00,CUST0116,Bengaluru,Credit Card,Shopping,2428.97,Success,iOS,True
+TXN00146,2026-05-16,22:44:00,CUST0041,Hyderabad,Debit Card,Utilities,951.83,Success,Android,True
+TXN00147,2026-08-16,09:07:00,CUST0036,Bengaluru,UPI,Food Delivery,547.03,Success,Web,True
+TXN00148,2026-06-08,00:13:00,CUST0034,Mumbai,UPI,Healthcare,2063.47,Success,Web,False
+TXN00149,2026-02-12,06:51:00,CUST0034,Bengaluru,Credit Card,Education,2203.62,Success,iOS,False
+TXN00150,2026-04-13,20:27:00,CUST0018,Hyderabad,UPI,Education,2957.14,Success,Android,False
+TXN00151,2026-03-27,08:32:00,CUST0038,Chennai,UPI,Shopping,3233.31,Success,Android,False
+TXN00152,2026-08-14,01:27:00,CUST0099,Chennai,Net Banking,Shopping,2589.44,Success,Android,False
+TXN00153,2026-03-25,17:12:00,CUST0046,Hyderabad,Credit Card,Education,1188.37,Failed,Android,False
+TXN00154,2026-02-07,04:49:00,CUST0118,Mumbai,UPI,Utilities,1424.53,Success,iOS,True
+TXN00155,2026-07-20,08:45:00,CUST0123,Hyderabad,Debit Card,Travel,1433.39,Success,Android,False
+TXN00156,2026-04-27,00:41:00,CUST0115,Delhi,UPI,Utilities,1799.19,Success,Android,False
+TXN00157,2026-01-27,14:21:00,CUST0081,Bengaluru,Debit Card,Utilities,1606.93,Failed,Android,False
+TXN00158,2026-07-08,10:38:00,CUST0048,Delhi,UPI,Travel,3165.26,Success,Android,False
+TXN00159,2026-02-27,20:57:00,CUST0140,Delhi,Credit Card,Education,3426.42,Success,Android,False
+TXN00160,2026-08-26,08:38:00,CUST0031,Delhi,UPI,Shopping,1993.06,Success,Android,False
+TXN00161,2026-08-16,04:29:00,CUST0070,Hyderabad,UPI,Education,4177.07,Success,iOS,True
+TXN00162,2026-04-11,03:16:00,CUST0069,Pune,Net Banking,Food Delivery,349.92,Failed,Android,True
+TXN00163,2026-06-01,04:31:00,CUST0112,Hyderabad,UPI,Shopping,2433.21,Success,iOS,False
+TXN00164,2026-06-04,10:22:00,CUST0083,Hyderabad,UPI,Healthcare,2367.03,Failed,iOS,False
+TXN00165,2026-06-28,02:36:00,CUST0120,Mumbai,UPI,Healthcare,1270.22,Success,Android,True
+TXN00166,2026-01-19,09:02:00,CUST0138,Bengaluru,Debit Card,Healthcare,1228.61,Success,iOS,False
+TXN00167,2026-03-30,20:11:00,CUST0059,Chennai,Debit Card,Shopping,1017.58,Success,Android,False
+TXN00168,2026-02-16,18:47:00,CUST0132,Chennai,Mobile Wallet,Education,1667.16,Success,Android,False
+TXN00169,2026-07-10,15:22:00,CUST0026,Bengaluru,UPI,Healthcare,301.28,Success,Android,False
+TXN00170,2026-01-19,21:25:00,CUST0138,Pune,UPI,Healthcare,2258.32,Failed,Android,False
+TXN00171,2026-05-22,18:32:00,CUST0027,Bengaluru,UPI,Groceries,1179.11,Success,Web,False
+TXN00172,2026-07-18,15:26:00,CUST0128,Mumbai,Credit Card,Education,5252.47,Success,Web,True
+TXN00173,2026-09-16,20:45:00,CUST0059,Hyderabad,Mobile Wallet,Healthcare,456.05,Success,iOS,False
+TXN00174,2026-03-20,02:14:00,CUST0145,Pune,Debit Card,Education,4243.79,Success,Android,False
+TXN00175,2026-01-03,19:45:00,CUST0020,Hyderabad,Credit Card,Food Delivery,688.78,Success,Android,True
+TXN00176,2026-07-17,07:12:00,CUST0070,Hyderabad,UPI,Education,2542.19,Success,Web,False
+TXN00177,2026-01-01,17:22:00,CUST0136,Bengaluru,Net Banking,Groceries,679.67,Success,Android,False
+TXN00178,2026-01-19,21:35:00,CUST0008,Pune,UPI,Utilities,106.09,Success,Android,False
+TXN00179,2026-09-28,11:53:00,CUST0040,Chennai,UPI,Travel,3136.09,Success,Android,False
+TXN00180,2026-08-24,02:13:00,CUST0013,Delhi,UPI,Utilities,573.54,Success,Android,False
+TXN00181,2026-07-13,08:35:00,CUST0049,Chennai,UPI,Travel,3051.54,Failed,Android,False
+TXN00182,2026-08-17,09:03:00,CUST0059,Chennai,UPI,Food Delivery,124.93,Success,Android,False
+TXN00183,2026-01-21,22:04:00,CUST0093,Mumbai,UPI,Travel,3484.0,Success,Android,False
+TXN00184,2026-01-25,22:46:00,CUST0039,Bengaluru,UPI,Travel,4090.89,Success,Android,True
+TXN00185,2026-03-24,13:43:00,CUST0024,Delhi,Credit Card,Travel,1813.19,Success,Android,False
+TXN00186,2026-01-07,22:22:00,CUST0026,Delhi,UPI,Shopping,1074.45,Failed,Android,False
+TXN00187,2026-08-31,10:37:00,CUST0141,Bengaluru,UPI,Shopping,65.54,Success,Android,False
+TXN00188,2026-01-16,09:22:00,CUST0143,Hyderabad,Mobile Wallet,Food Delivery,369.65,Success,Web,False
+TXN00189,2026-05-29,20:16:00,CUST0034,Delhi,Debit Card,Utilities,812.11,Failed,Android,False
+TXN00190,2026-08-22,16:25:00,CUST0030,Hyderabad,Credit Card,Travel,845.72,Failed,iOS,True
+TXN00191,2026-07-20,12:18:00,CUST0009,Pune,UPI,Shopping,2648.49,Success,iOS,False
+TXN00192,2026-03-06,10:48:00,CUST0144,Hyderabad,Net Banking,Shopping,1754.53,Success,Android,False
+TXN00193,2026-05-09,16:24:00,CUST0106,Hyderabad,UPI,Shopping,1135.02,Success,iOS,True
+TXN00194,2026-05-30,18:19:00,CUST0115,Chennai,UPI,Food Delivery,315.19,Success,iOS,True
+TXN00195,2026-07-29,11:32:00,CUST0044,Hyderabad,Net Banking,Travel,4149.84,Success,Android,False
+TXN00196,2026-04-27,00:45:00,CUST0097,Hyderabad,Credit Card,Education,4068.23,Success,Android,False
+TXN00197,2026-03-19,02:16:00,CUST0009,Mumbai,Debit Card,Shopping,2071.27,Success,Android,False
+TXN00198,2026-08-06,03:56:00,CUST0102,Chennai,Credit Card,Healthcare,2173.62,Success,Web,False
+TXN00199,2026-08-31,11:27:00,CUST0087,Hyderabad,Credit Card,Utilities,525.35,Success,iOS,False
+TXN00200,2026-05-14,14:39:00,CUST0050,Bengaluru,UPI,Food Delivery,426.12,Success,Web,False
+TXN00201,2026-01-08,19:57:00,CUST0107,Delhi,UPI,Shopping,2345.85,Success,Web,False
+TXN00202,2026-05-17,05:25:00,CUST0097,Pune,UPI,Groceries,512.57,Success,Android,True
+TXN00203,2026-08-31,18:11:00,CUST0066,Mumbai,UPI,Groceries,777.37,Success,iOS,False
+TXN00204,2026-09-28,15:44:00,CUST0029,Hyderabad,Net Banking,Shopping,1427.37,Failed,Android,False
+TXN00205,2026-04-20,01:00:00,CUST0004,Hyderabad,UPI,Utilities,1352.36,Success,iOS,False
+TXN00206,2026-02-10,08:27:00,CUST0141,Hyderabad,Credit Card,Education,3994.68,Success,Android,False
+TXN00207,2026-06-06,07:58:00,CUST0043,Hyderabad,Debit Card,Groceries,30.0,Success,Android,True
+TXN00208,2026-08-15,21:24:00,CUST0046,Delhi,Debit Card,Education,4914.04,Success,iOS,True
+TXN00209,2026-09-15,22:41:00,CUST0103,Hyderabad,UPI,Food Delivery,30.0,Failed,iOS,False
+TXN00210,2026-01-15,19:31:00,CUST0039,Mumbai,UPI,Groceries,469.81,Success,Android,False
+TXN00211,2026-03-21,12:12:00,CUST0057,Delhi,Mobile Wallet,Travel,4091.94,Success,Android,True
+TXN00212,2026-05-11,11:19:00,CUST0107,Mumbai,Credit Card,Education,2743.11,Success,Android,False
+TXN00213,2026-01-27,07:31:00,CUST0090,Hyderabad,Debit Card,Travel,952.61,Success,Web,False
+TXN00214,2026-08-30,18:06:00,CUST0099,Chennai,Net Banking,Groceries,330.08,Success,Android,True
+TXN00215,2026-01-31,02:24:00,CUST0001,Delhi,Debit Card,Groceries,950.37,Success,Android,True
+TXN00216,2026-07-01,06:24:00,CUST0068,Delhi,UPI,Shopping,297.71,Success,Android,False
+TXN00217,2026-09-08,03:50:00,CUST0072,Hyderabad,Credit Card,Utilities,1658.85,Success,Android,False
+TXN00218,2026-07-07,11:07:00,CUST0095,Hyderabad,UPI,Healthcare,1657.85,Success,Android,False
+TXN00219,2026-07-28,07:50:00,CUST0023,Pune,Credit Card,Shopping,1019.53,Success,Android,False
+TXN00220,2026-03-13,04:24:00,CUST0024,Bengaluru,Mobile Wallet,Food Delivery,309.79,Success,iOS,False
+TXN00221,2026-08-14,09:39:00,CUST0115,Bengaluru,UPI,Healthcare,921.82,Failed,Web,False
+TXN00222,2026-04-25,20:33:00,CUST0101,Mumbai,UPI,Food Delivery,583.72,Success,Web,True
+TXN00223,2026-01-17,13:17:00,CUST0122,Delhi,UPI,Groceries,864.24,Success,Android,True
+TXN00224,2026-04-11,19:55:00,CUST0041,Pune,Mobile Wallet,Shopping,498.03,Success,Android,True
+TXN00225,2026-04-06,21:13:00,CUST0150,Bengaluru,UPI,Shopping,1800.44,Success,iOS,False
+TXN00226,2026-05-23,21:02:00,CUST0041,Pune,UPI,Travel,1712.39,Success,iOS,True
+TXN00227,2026-03-14,08:45:00,CUST0098,Hyderabad,UPI,Healthcare,2689.54,Success,Android,True
+TXN00228,2026-05-07,21:37:00,CUST0025,Mumbai,UPI,Healthcare,667.17,Pending,iOS,False
+TXN00229,2026-04-27,21:53:00,CUST0138,Mumbai,UPI,Shopping,3788.19,Success,iOS,False
+TXN00230,2026-03-31,23:27:00,CUST0050,Hyderabad,UPI,Healthcare,1674.53,Success,iOS,False
+TXN00231,2026-07-10,08:01:00,CUST0121,Hyderabad,UPI,Travel,1335.96,Success,iOS,False
+TXN00232,2026-03-25,05:01:00,CUST0050,Bengaluru,UPI,Groceries,451.9,Success,Android,False
+TXN00233,2026-07-29,14:25:00,CUST0119,Pune,UPI,Healthcare,1086.76,Success,Android,False
+TXN00234,2026-03-10,22:14:00,CUST0069,Mumbai,UPI,Groceries,277.17,Success,Android,False
+TXN00235,2026-08-25,21:55:00,CUST0010,Pune,UPI,Travel,2919.48,Success,Android,False
+TXN00236,2026-04-10,13:07:00,CUST0029,Chennai,Credit Card,Education,1431.8,Success,iOS,False
+TXN00237,2026-01-12,03:52:00,CUST0103,Bengaluru,UPI,Food Delivery,30.0,Pending,Android,False
+TXN00238,2026-02-10,10:13:00,CUST0029,Chennai,UPI,Food Delivery,348.24,Success,Android,False
+TXN00239,2026-08-09,17:07:00,CUST0042,Hyderabad,UPI,Utilities,207.59,Success,iOS,True
+TXN00240,2026-08-27,13:16:00,CUST0082,Hyderabad,UPI,Healthcare,1124.6,Success,iOS,False
+TXN00241,2026-02-27,08:08:00,CUST0038,Chennai,UPI,Food Delivery,248.18,Success,iOS,False
+TXN00242,2026-06-14,08:24:00,CUST0020,Chennai,UPI,Travel,1702.27,Success,Android,True
+TXN00243,2026-06-06,01:19:00,CUST0094,Hyderabad,Net Banking,Utilities,2090.48,Success,iOS,True
+TXN00244,2026-02-06,06:31:00,CUST0104,Mumbai,UPI,Groceries,666.5,Success,Android,False
+TXN00245,2026-05-04,16:32:00,CUST0110,Mumbai,UPI,Travel,3109.17,Success,Android,False
+TXN00246,2026-07-09,05:00:00,CUST0142,Chennai,UPI,Education,641.99,Success,Android,False
+TXN00247,2026-09-22,23:07:00,CUST0019,Mumbai,UPI,Travel,1976.01,Success,iOS,False
+TXN00248,2026-08-20,01:09:00,CUST0065,Bengaluru,UPI,Food Delivery,460.69,Success,iOS,False
+TXN00249,2026-01-27,14:11:00,CUST0036,Bengaluru,Debit Card,Food Delivery,226.36,Success,Android,False
+TXN00250,2026-03-06,11:05:00,CUST0136,Bengaluru,Debit Card,Shopping,3098.98,Success,Android,False
+TXN00251,2026-04-30,19:18:00,CUST0081,Delhi,UPI,Utilities,504.67,Success,iOS,False
+TXN00252,2026-02-11,21:32:00,CUST0015,Chennai,UPI,Utilities,958.25,Failed,iOS,False
+TXN00253,2026-06-05,13:18:00,CUST0104,Bengaluru,UPI,Food Delivery,309.24,Success,Android,False
+TXN00254,2026-01-03,15:19:00,CUST0007,Hyderabad,UPI,Utilities,1181.34,Success,Web,True
+TXN00255,2026-01-31,16:28:00,CUST0042,Hyderabad,Credit Card,Shopping,1565.91,Success,iOS,True
+TXN00256,2026-01-13,12:32:00,CUST0109,Delhi,UPI,Travel,2458.67,Success,Web,False
+TXN00257,2026-03-22,04:19:00,CUST0076,Chennai,UPI,Education,2859.97,Success,Web,True
+TXN00258,2026-07-28,10:13:00,CUST0115,Hyderabad,Net Banking,Travel,1874.67,Success,Web,False
+TXN00259,2026-02-18,05:24:00,CUST0086,Hyderabad,UPI,Groceries,791.89,Success,iOS,False
+TXN00260,2026-09-27,11:01:00,CUST0127,Mumbai,UPI,Healthcare,1882.37,Success,Android,True
+TXN00261,2026-03-15,14:29:00,CUST0085,Hyderabad,Debit Card,Groceries,624.08,Success,Android,True
+TXN00262,2026-01-13,05:56:00,CUST0009,Chennai,UPI,Healthcare,1370.7,Success,Android,False
+TXN00263,2026-04-02,05:23:00,CUST0011,Bengaluru,UPI,Groceries,882.99,Success,iOS,False
+TXN00264,2026-07-24,19:06:00,CUST0117,Hyderabad,UPI,Utilities,983.26,Success,Android,False
+TXN00265,2026-01-30,09:42:00,CUST0006,Pune,Net Banking,Groceries,560.29,Success,iOS,False
+TXN00266,2026-01-20,04:07:00,CUST0057,Hyderabad,UPI,Groceries,680.62,Success,Android,False
+TXN00267,2026-08-20,17:11:00,CUST0003,Bengaluru,UPI,Travel,4937.7,Success,Android,False
+TXN00268,2026-06-11,17:08:00,CUST0046,Hyderabad,UPI,Education,1269.89,Failed,Android,False
+TXN00269,2026-04-04,19:53:00,CUST0090,Hyderabad,UPI,Groceries,875.18,Success,Android,True
+TXN00270,2026-07-26,18:58:00,CUST0026,Hyderabad,Credit Card,Healthcare,251.72,Success,Android,True
+TXN00271,2026-08-19,23:34:00,CUST0070,Hyderabad,UPI,Shopping,2415.1,Success,Android,False
+TXN00272,2026-04-09,13:37:00,CUST0150,Hyderabad,Credit Card,Shopping,3759.33,Success,iOS,False
+TXN00273,2026-06-03,06:38:00,CUST0011,Hyderabad,Credit Card,Shopping,2683.78,Success,Android,False
+TXN00274,2026-01-03,20:36:00,CUST0010,Mumbai,Debit Card,Utilities,1184.46,Success,Android,True
+TXN00275,2026-03-25,06:32:00,CUST0041,Delhi,UPI,Food Delivery,314.08,Success,Android,False
+TXN00276,2026-06-12,06:59:00,CUST0125,Bengaluru,Debit Card,Shopping,2230.74,Success,Android,False
+TXN00277,2026-02-23,19:43:00,CUST0061,Bengaluru,Credit Card,Food Delivery,372.36,Success,Android,False
+TXN00278,2026-09-28,21:05:00,CUST0096,Mumbai,UPI,Groceries,420.1,Success,iOS,False
+TXN00279,2026-09-23,08:23:00,CUST0006,Chennai,Debit Card,Shopping,1913.02,Success,iOS,False
+TXN00280,2026-03-12,17:58:00,CUST0111,Chennai,Debit Card,Travel,3049.96,Success,Android,False
+TXN00281,2026-04-19,22:24:00,CUST0011,Hyderabad,UPI,Education,2095.21,Success,Android,True
+TXN00282,2026-02-21,19:12:00,CUST0107,Hyderabad,Net Banking,Shopping,1401.78,Success,Android,True
+TXN00283,2026-05-18,00:52:00,CUST0023,Hyderabad,UPI,Shopping,853.36,Success,Android,False
+TXN00284,2026-02-03,15:37:00,CUST0129,Hyderabad,Credit Card,Education,3762.64,Success,Web,False
+TXN00285,2026-04-17,04:33:00,CUST0045,Mumbai,Mobile Wallet,Travel,3487.11,Success,Android,False
+TXN00286,2026-06-01,20:25:00,CUST0028,Bengaluru,UPI,Education,3533.59,Success,Web,False
+TXN00287,2026-06-17,01:07:00,CUST0051,Hyderabad,Debit Card,Healthcare,2438.36,Success,Android,False
+TXN00288,2026-06-12,23:23:00,CUST0001,Bengaluru,UPI,Education,3326.53,Success,Android,False
+TXN00289,2026-03-02,04:26:00,CUST0025,Mumbai,Debit Card,Healthcare,1999.89,Success,Android,False
+TXN00290,2026-08-05,10:55:00,CUST0090,Hyderabad,Credit Card,Shopping,2500.8,Success,Android,False
+TXN00291,2026-07-08,05:18:00,CUST0046,Chennai,UPI,Shopping,2109.38,Success,Web,False
+TXN00292,2026-07-25,19:08:00,CUST0054,Hyderabad,UPI,Shopping,1674.49,Success,Android,True
+TXN00293,2026-05-08,09:25:00,CUST0122,Pune,UPI,Food Delivery,838.47,Success,iOS,False
+TXN00294,2026-09-01,17:59:00,CUST0019,Hyderabad,UPI,Education,2549.19,Success,iOS,False
+TXN00295,2026-04-17,01:28:00,CUST0060,Chennai,UPI,Education,2241.14,Success,Android,False
+TXN00296,2026-08-08,10:22:00,CUST0028,Pune,UPI,Education,3824.97,Success,Android,True
+TXN00297,2026-02-25,21:40:00,CUST0073,Pune,UPI,Food Delivery,467.6,Success,Android,False
+TXN00298,2026-03-09,22:38:00,CUST0050,Chennai,UPI,Utilities,404.63,Success,Android,False
+TXN00299,2026-05-24,05:17:00,CUST0007,Delhi,Debit Card,Food Delivery,632.19,Success,iOS,True
+TXN00300,2026-06-01,09:58:00,CUST0011,Delhi,Debit Card,Healthcare,1627.94,Success,Android,False
+TXN00301,2026-07-23,09:35:00,CUST0128,Delhi,Debit Card,Food Delivery,210.03,Success,Web,False
+TXN00302,2026-03-23,13:03:00,CUST0009,Hyderabad,UPI,Food Delivery,644.68,Success,Android,False
+TXN00303,2026-08-27,12:24:00,CUST0118,Mumbai,Net Banking,Utilities,1409.71,Success,Android,False
+TXN00304,2026-04-01,02:55:00,CUST0138,Mumbai,Credit Card,Healthcare,732.63,Success,iOS,False
+TXN00305,2026-05-26,18:23:00,CUST0070,Chennai,UPI,Healthcare,3059.54,Success,Android,False
+TXN00306,2026-09-12,05:34:00,CUST0047,Bengaluru,UPI,Groceries,842.7,Success,Web,True
+TXN00307,2026-05-28,07:36:00,CUST0117,Bengaluru,Credit Card,Shopping,2189.91,Failed,Android,False
+TXN00308,2026-07-06,20:42:00,CUST0148,Mumbai,UPI,Food Delivery,720.55,Success,Web,False
+TXN00309,2026-09-06,16:52:00,CUST0019,Hyderabad,UPI,Shopping,2357.7,Success,iOS,True
+TXN00310,2026-09-24,09:08:00,CUST0145,Hyderabad,Mobile Wallet,Utilities,1086.1,Success,iOS,False
+TXN00311,2026-05-17,21:31:00,CUST0142,Bengaluru,UPI,Food Delivery,295.2,Pending,Android,True
+TXN00312,2026-04-24,09:32:00,CUST0022,Bengaluru,UPI,Groceries,820.19,Success,iOS,False
+TXN00313,2026-02-23,13:09:00,CUST0009,Hyderabad,Mobile Wallet,Utilities,1335.92,Success,Android,False
+TXN00314,2026-05-27,05:40:00,CUST0108,Bengaluru,Credit Card,Groceries,654.29,Success,iOS,False
+TXN00315,2026-09-08,04:07:00,CUST0012,Bengaluru,UPI,Food Delivery,270.69,Success,Android,False
+TXN00316,2026-05-13,11:27:00,CUST0091,Bengaluru,Net Banking,Groceries,688.0,Success,Android,False
+TXN00317,2026-04-06,13:19:00,CUST0010,Bengaluru,Net Banking,Groceries,629.58,Success,Android,False
+TXN00318,2026-01-30,19:09:00,CUST0104,Delhi,Credit Card,Utilities,439.93,Success,Android,False
+TXN00319,2026-04-17,09:49:00,CUST0035,Bengaluru,Credit Card,Education,1080.59,Success,Android,False
+TXN00320,2026-03-06,21:14:00,CUST0015,Pune,UPI,Education,4013.82,Success,iOS,False
+TXN00321,2026-09-24,14:15:00,CUST0010,Pune,UPI,Groceries,30.0,Success,Android,False
+TXN00322,2026-05-25,01:51:00,CUST0029,Mumbai,Credit Card,Groceries,710.08,Success,iOS,False
+TXN00323,2026-02-07,17:52:00,CUST0082,Bengaluru,UPI,Shopping,1726.7,Success,Android,True
+TXN00324,2026-01-19,13:02:00,CUST0012,Mumbai,Credit Card,Travel,4448.39,Success,iOS,False
+TXN00325,2026-08-21,09:16:00,CUST0121,Chennai,Debit Card,Education,2489.41,Success,iOS,False
+TXN00326,2026-09-12,11:42:00,CUST0091,Delhi,UPI,Education,4149.66,Success,Android,True
+TXN00327,2026-07-28,07:46:00,CUST0045,Chennai,Credit Card,Shopping,1807.06,Success,iOS,False
+TXN00328,2026-02-03,14:59:00,CUST0148,Mumbai,UPI,Food Delivery,441.5,Success,Web,False
+TXN00329,2026-01-27,13:33:00,CUST0099,Mumbai,Net Banking,Groceries,865.52,Pending,iOS,False
+TXN00330,2026-02-24,10:00:00,CUST0101,Bengaluru,UPI,Food Delivery,332.58,Success,Android,False
+TXN00331,2026-07-25,06:52:00,CUST0027,Delhi,Credit Card,Groceries,941.49,Success,Android,True
+TXN00332,2026-07-28,09:09:00,CUST0107,Hyderabad,Credit Card,Healthcare,939.82,Success,iOS,False
+TXN00333,2026-08-17,11:07:00,CUST0084,Delhi,UPI,Food Delivery,475.68,Success,Android,False
+TXN00334,2026-01-27,11:40:00,CUST0148,Chennai,Credit Card,Education,4528.6,Success,iOS,False
+TXN00335,2026-02-11,07:36:00,CUST0072,Hyderabad,Debit Card,Utilities,1426.72,Success,Android,False
+TXN00336,2026-09-03,13:03:00,CUST0102,Mumbai,Credit Card,Utilities,2048.64,Failed,iOS,False
+TXN00337,2026-09-11,05:10:00,CUST0052,Hyderabad,Debit Card,Utilities,722.1,Success,Android,False
+TXN00338,2026-07-18,12:35:00,CUST0007,Delhi,Mobile Wallet,Education,1214.03,Success,Android,True
+TXN00339,2026-01-29,02:15:00,CUST0020,Hyderabad,UPI,Groceries,359.16,Success,Web,False
+TXN00340,2026-01-19,11:41:00,CUST0131,Pune,UPI,Groceries,843.18,Success,iOS,False
+TXN00341,2026-01-16,18:24:00,CUST0111,Hyderabad,UPI,Shopping,2692.94,Success,Web,False
+TXN00342,2026-07-08,19:35:00,CUST0055,Pune,Debit Card,Shopping,2301.23,Success,Web,False
+TXN00343,2026-08-19,16:28:00,CUST0105,Chennai,Credit Card,Utilities,544.14,Failed,Android,False
+TXN00344,2026-06-22,17:21:00,CUST0001,Mumbai,UPI,Education,4304.29,Success,Android,False
+TXN00345,2026-03-13,01:20:00,CUST0006,Chennai,UPI,Travel,1256.87,Success,Android,False
+TXN00346,2026-07-26,08:41:00,CUST0077,Chennai,Net Banking,Food Delivery,639.04,Success,Android,True
+TXN00347,2026-01-17,15:30:00,CUST0094,Pune,UPI,Shopping,5028.86,Success,Android,True
+TXN00348,2026-08-15,19:35:00,CUST0141,Hyderabad,Credit Card,Education,3727.69,Success,Web,True
+TXN00349,2026-09-01,13:34:00,CUST0114,Mumbai,UPI,Food Delivery,530.21,Success,Android,False
+TXN00350,2026-07-16,20:12:00,CUST0039,Hyderabad,Mobile Wallet,Utilities,856.03,Success,Android,False
+TXN00351,2026-08-29,06:54:00,CUST0123,Mumbai,UPI,Utilities,203.94,Success,Android,True
+TXN00352,2026-06-10,03:33:00,CUST0074,Hyderabad,UPI,Education,2332.08,Success,Android,False
+TXN00353,2026-05-08,02:43:00,CUST0124,Mumbai,Debit Card,Education,1626.23,Success,Android,False
+TXN00354,2026-03-30,13:52:00,CUST0027,Mumbai,Net Banking,Utilities,383.73,Success,iOS,False
+TXN00355,2026-09-09,15:55:00,CUST0004,Bengaluru,UPI,Shopping,3905.14,Success,Android,False
+TXN00356,2026-07-10,06:40:00,CUST0009,Mumbai,UPI,Shopping,2470.13,Success,Android,False
+TXN00357,2026-02-22,18:47:00,CUST0149,Delhi,Debit Card,Shopping,2575.89,Failed,Web,True
+TXN00358,2026-09-19,17:28:00,CUST0013,Chennai,Net Banking,Food Delivery,361.59,Success,Android,True
+TXN00359,2026-01-17,08:44:00,CUST0141,Mumbai,UPI,Travel,2582.18,Success,iOS,True
+TXN00360,2026-06-10,05:19:00,CUST0110,Mumbai,UPI,Food Delivery,602.3,Success,Android,False
+TXN00361,2026-02-22,17:42:00,CUST0022,Pune,Debit Card,Travel,2759.26,Success,Android,True
+TXN00362,2026-07-01,16:05:00,CUST0130,Hyderabad,Debit Card,Education,3964.2,Success,Android,False
+TXN00363,2026-04-23,04:54:00,CUST0022,Hyderabad,Debit Card,Healthcare,1550.06,Success,Web,False
+TXN00364,2026-04-30,06:14:00,CUST0022,Hyderabad,Credit Card,Groceries,549.92,Success,Android,False
+TXN00365,2026-07-03,11:39:00,CUST0087,Delhi,UPI,Education,1174.04,Success,Android,False
+TXN00366,2026-07-26,12:00:00,CUST0044,Bengaluru,Net Banking,Groceries,71.51,Success,Android,True
+TXN00367,2026-04-14,03:09:00,CUST0044,Delhi,Net Banking,Shopping,1941.05,Success,iOS,False
+TXN00368,2026-09-30,22:59:00,CUST0030,Delhi,Debit Card,Food Delivery,430.68,Success,iOS,False
+TXN00369,2026-05-17,09:50:00,CUST0092,Bengaluru,UPI,Food Delivery,176.92,Pending,Android,True
+TXN00370,2026-02-13,09:13:00,CUST0005,Chennai,UPI,Food Delivery,413.48,Success,Web,False
+TXN00371,2026-01-02,01:07:00,CUST0037,Delhi,Debit Card,Groceries,665.72,Success,iOS,False
+TXN00372,2026-02-25,21:48:00,CUST0084,Hyderabad,UPI,Education,95.35,Success,iOS,False
+TXN00373,2026-07-08,05:59:00,CUST0073,Bengaluru,Mobile Wallet,Groceries,382.33,Success,Android,False
+TXN00374,2026-05-28,23:10:00,CUST0105,Bengaluru,UPI,Shopping,2603.19,Success,Android,False
+TXN00375,2026-04-03,11:39:00,CUST0033,Hyderabad,Debit Card,Travel,3287.69,Success,Web,False
+TXN00376,2026-05-12,20:17:00,CUST0098,Hyderabad,Net Banking,Healthcare,817.44,Success,Android,False
+TXN00377,2026-08-17,04:44:00,CUST0114,Pune,UPI,Education,3428.17,Success,Android,False
+TXN00378,2026-06-06,03:25:00,CUST0059,Bengaluru,UPI,Groceries,949.05,Success,Android,True
+TXN00379,2026-01-16,19:07:00,CUST0039,Bengaluru,Credit Card,Healthcare,2294.46,Success,Android,False
+TXN00380,2026-01-14,19:19:00,CUST0084,Delhi,Credit Card,Travel,2679.94,Success,iOS,False
+TXN00381,2026-05-12,13:32:00,CUST0087,Mumbai,UPI,Food Delivery,331.55,Success,Android,False
+TXN00382,2026-04-21,00:47:00,CUST0015,Pune,Credit Card,Utilities,788.47,Success,iOS,False
+TXN00383,2026-08-21,22:01:00,CUST0085,Chennai,Net Banking,Healthcare,2057.88,Success,Android,False
+TXN00384,2026-06-09,09:57:00,CUST0024,Bengaluru,UPI,Shopping,2393.15,Success,Android,False
+TXN00385,2026-07-26,22:38:00,CUST0086,Bengaluru,UPI,Food Delivery,538.96,Pending,Android,True
+TXN00386,2026-06-09,20:52:00,CUST0140,Pune,UPI,Healthcare,1800.88,Success,iOS,False
+TXN00387,2026-04-05,20:55:00,CUST0081,Delhi,UPI,Healthcare,2326.35,Success,Android,True
+TXN00388,2026-06-29,16:09:00,CUST0115,Pune,UPI,Healthcare,1772.36,Success,Android,False
+TXN00389,2026-06-19,16:05:00,CUST0047,Hyderabad,UPI,Healthcare,2300.29,Success,iOS,False
+TXN00390,2026-07-16,12:46:00,CUST0139,Chennai,Credit Card,Healthcare,2366.18,Success,Android,False
+TXN00391,2026-02-21,00:11:00,CUST0122,Mumbai,UPI,Utilities,701.76,Success,Android,True
+TXN00392,2026-06-25,09:08:00,CUST0138,Hyderabad,Mobile Wallet,Food Delivery,78.26,Success,Android,False
+TXN00393,2026-03-19,17:28:00,CUST0112,Mumbai,UPI,Travel,4744.8,Success,iOS,False
+TXN00394,2026-08-04,19:54:00,CUST0098,Delhi,UPI,Food Delivery,468.51,Success,Android,False
+TXN00395,2026-08-06,13:47:00,CUST0079,Hyderabad,Debit Card,Utilities,251.33,Success,Android,False
+TXN00396,2026-06-20,17:31:00,CUST0140,Bengaluru,Net Banking,Travel,1900.59,Success,Android,True
+TXN00397,2026-09-16,00:11:00,CUST0128,Chennai,UPI,Healthcare,2290.48,Success,Android,False
+TXN00398,2026-05-27,11:20:00,CUST0063,Bengaluru,UPI,Shopping,1923.12,Success,Android,False
+TXN00399,2026-01-07,12:41:00,CUST0013,Bengaluru,UPI,Food Delivery,323.22,Success,Android,False
+TXN00400,2026-06-15,21:09:00,CUST0001,Bengaluru,Credit Card,Education,5217.27,Success,Android,False
+TXN00401,2026-08-01,07:31:00,CUST0036,Bengaluru,UPI,Groceries,343.67,Success,Android,True
+TXN00402,2026-01-28,05:00:00,CUST0010,Pune,UPI,Utilities,704.91,Success,Web,False
+TXN00403,2026-01-29,08:19:00,CUST0032,Chennai,UPI,Education,3504.4,Success,Android,False
+TXN00404,2026-03-16,04:14:00,CUST0017,Hyderabad,UPI,Utilities,1293.28,Success,Android,False
+TXN00405,2026-08-19,13:40:00,CUST0148,Pune,Mobile Wallet,Shopping,2691.38,Failed,Web,False
+TXN00406,2026-05-24,15:54:00,CUST0015,Chennai,Credit Card,Education,4512.18,Success,Web,True
+TXN00407,2026-09-24,19:08:00,CUST0095,Bengaluru,UPI,Shopping,2396.59,Success,iOS,False
+TXN00408,2026-08-27,23:47:00,CUST0053,Chennai,UPI,Travel,3416.62,Success,Android,False
+TXN00409,2026-06-01,01:39:00,CUST0027,Hyderabad,UPI,Utilities,971.69,Success,Android,False
+TXN00410,2026-07-05,05:58:00,CUST0106,Pune,UPI,Groceries,668.34,Success,Android,True
+TXN00411,2026-04-01,07:54:00,CUST0146,Delhi,Debit Card,Utilities,1153.23,Success,Android,False
+TXN00412,2026-01-25,05:06:00,CUST0119,Delhi,Net Banking,Groceries,712.92,Success,Android,True
+TXN00413,2026-04-19,19:44:00,CUST0147,Hyderabad,Net Banking,Healthcare,2290.99,Success,Android,True
+TXN00414,2026-06-11,03:35:00,CUST0089,Chennai,Mobile Wallet,Travel,3499.48,Success,Android,False
+TXN00415,2026-02-19,00:06:00,CUST0102,Hyderabad,Mobile Wallet,Shopping,2243.77,Success,Android,False
+TXN00416,2026-03-02,20:15:00,CUST0022,Hyderabad,Mobile Wallet,Utilities,699.48,Success,Android,False
+TXN00417,2026-01-05,23:55:00,CUST0128,Hyderabad,UPI,Travel,2885.27,Success,Android,False
+TXN00418,2026-07-20,05:32:00,CUST0113,Delhi,UPI,Food Delivery,414.7,Success,iOS,False
+TXN00419,2026-09-03,07:20:00,CUST0039,Hyderabad,UPI,Shopping,2391.25,Success,Web,False
+TXN00420,2026-08-14,12:19:00,CUST0054,Pune,Credit Card,Shopping,4384.46,Success,Android,False
+TXN00421,2026-04-14,12:50:00,CUST0092,Delhi,UPI,Food Delivery,321.01,Success,Android,False
+TXN00422,2026-06-12,23:17:00,CUST0002,Hyderabad,Debit Card,Education,3808.1,Success,Android,False
+TXN00423,2026-09-20,09:09:00,CUST0123,Hyderabad,Credit Card,Groceries,962.53,Success,Android,True
+TXN00424,2026-06-11,00:34:00,CUST0043,Hyderabad,Credit Card,Education,3341.12,Success,iOS,False
+TXN00425,2026-03-22,10:59:00,CUST0012,Mumbai,UPI,Shopping,4514.47,Success,Android,True
+TXN00426,2026-04-03,13:10:00,CUST0050,Chennai,UPI,Utilities,912.87,Failed,Android,False
+TXN00427,2026-07-18,12:15:00,CUST0126,Hyderabad,UPI,Food Delivery,481.25,Success,Android,True
+TXN00428,2026-05-02,12:28:00,CUST0042,Chennai,Debit Card,Shopping,1409.18,Success,Android,True
+TXN00429,2026-08-17,22:11:00,CUST0081,Hyderabad,Credit Card,Education,2693.8,Success,Android,False
+TXN00430,2026-08-24,19:39:00,CUST0122,Chennai,Debit Card,Food Delivery,467.05,Success,Android,False
+TXN00431,2026-01-10,06:15:00,CUST0006,Pune,UPI,Groceries,897.54,Success,Web,True
+TXN00432,2026-07-17,08:07:00,CUST0114,Delhi,UPI,Utilities,1257.95,Success,Android,False
+TXN00433,2026-04-11,16:15:00,CUST0044,Delhi,UPI,Food Delivery,657.97,Success,Android,True
+TXN00434,2026-05-22,09:55:00,CUST0105,Chennai,Debit Card,Shopping,2105.98,Success,Android,False
+TXN00435,2026-03-14,10:56:00,CUST0029,Hyderabad,Debit Card,Utilities,935.58,Success,Android,True
+TXN00436,2026-04-11,04:30:00,CUST0021,Hyderabad,UPI,Utilities,2438.47,Success,Android,True
+TXN00437,2026-04-01,06:24:00,CUST0119,Hyderabad,Net Banking,Travel,3296.74,Success,Android,False
+TXN00438,2026-01-14,17:49:00,CUST0122,Mumbai,UPI,Travel,1893.45,Success,iOS,False
+TXN00439,2026-08-02,20:11:00,CUST0148,Delhi,Net Banking,Education,2200.26,Success,Android,True
+TXN00440,2026-02-09,18:39:00,CUST0102,Mumbai,UPI,Groceries,374.27,Success,Android,False
+TXN00441,2026-04-13,07:40:00,CUST0070,Chennai,UPI,Shopping,3127.2,Success,Android,False
+TXN00442,2026-02-22,03:42:00,CUST0030,Hyderabad,Debit Card,Groceries,543.42,Success,Android,True
+TXN00443,2026-02-13,03:13:00,CUST0045,Delhi,UPI,Groceries,687.25,Success,Android,False
+TXN00444,2026-04-12,09:42:00,CUST0098,Hyderabad,UPI,Food Delivery,408.0,Success,Web,True
+TXN00445,2026-09-08,12:36:00,CUST0052,Hyderabad,UPI,Travel,3721.68,Success,Android,False
+TXN00446,2026-09-15,21:52:00,CUST0073,Delhi,UPI,Healthcare,1052.24,Success,Android,False
+TXN00447,2026-04-15,21:10:00,CUST0026,Pune,Debit Card,Education,1651.18,Success,iOS,False
+TXN00448,2026-05-18,00:36:00,CUST0066,Mumbai,Debit Card,Travel,3082.61,Success,Android,False
+TXN00449,2026-09-27,16:49:00,CUST0036,Hyderabad,Net Banking,Education,4065.38,Failed,Android,True
+TXN00450,2026-03-06,07:16:00,CUST0017,Mumbai,UPI,Food Delivery,482.85,Success,Android,False
+TXN00451,2026-09-15,04:44:00,CUST0020,Hyderabad,Credit Card,Education,2034.39,Success,iOS,False
+TXN00452,2026-01-29,13:05:00,CUST0078,Chennai,UPI,Healthcare,2218.28,Pending,Android,False
+TXN00453,2026-03-03,00:43:00,CUST0055,Delhi,UPI,Groceries,432.42,Success,iOS,False
+TXN00454,2026-04-03,08:36:00,CUST0015,Hyderabad,UPI,Utilities,841.84,Success,iOS,False
+TXN00455,2026-01-11,13:11:00,CUST0078,Hyderabad,Net Banking,Education,1840.71,Success,iOS,True
+TXN00456,2026-08-11,06:03:00,CUST0025,Hyderabad,Net Banking,Utilities,1744.07,Pending,Web,False
+TXN00457,2026-08-22,14:44:00,CUST0003,Pune,Debit Card,Education,4112.13,Success,iOS,True
+TXN00458,2026-04-15,11:14:00,CUST0020,Bengaluru,UPI,Healthcare,2162.82,Success,iOS,False
+TXN00459,2026-08-17,19:29:00,CUST0068,Chennai,UPI,Utilities,1717.37,Success,iOS,False
+TXN00460,2026-07-30,04:03:00,CUST0144,Mumbai,Credit Card,Groceries,1472.7,Success,iOS,False
+TXN00461,2026-08-07,01:57:00,CUST0037,Mumbai,Credit Card,Shopping,507.87,Success,iOS,False
+TXN00462,2026-08-08,12:32:00,CUST0043,Hyderabad,UPI,Food Delivery,280.45,Success,Web,True
+TXN00463,2026-06-06,06:55:00,CUST0037,Pune,UPI,Utilities,794.99,Failed,Android,True
+TXN00464,2026-01-31,16:09:00,CUST0054,Bengaluru,UPI,Travel,1727.97,Success,iOS,True
+TXN00465,2026-09-10,02:12:00,CUST0108,Mumbai,Mobile Wallet,Utilities,566.6,Success,Android,False
+TXN00466,2026-06-16,13:36:00,CUST0049,Delhi,UPI,Food Delivery,363.37,Success,iOS,False
+TXN00467,2026-09-04,23:36:00,CUST0099,Delhi,Mobile Wallet,Shopping,995.56,Success,Android,False
+TXN00468,2026-09-19,02:47:00,CUST0135,Pune,UPI,Travel,3222.15,Success,iOS,True
+TXN00469,2026-02-21,07:55:00,CUST0142,Hyderabad,Credit Card,Groceries,665.12,Success,iOS,True
+TXN00470,2026-04-20,20:49:00,CUST0085,Mumbai,UPI,Food Delivery,510.91,Success,Web,False
+TXN00471,2026-02-22,12:08:00,CUST0107,Bengaluru,UPI,Healthcare,2088.41,Success,Android,True
+TXN00472,2026-01-14,04:18:00,CUST0138,Bengaluru,UPI,Groceries,826.38,Success,iOS,False
+TXN00473,2026-09-21,05:54:00,CUST0119,Hyderabad,UPI,Shopping,1830.33,Success,iOS,False
+TXN00474,2026-09-10,18:32:00,CUST0045,Hyderabad,Net Banking,Food Delivery,820.9,Success,Web,False
+TXN00475,2026-09-12,20:52:00,CUST0020,Hyderabad,UPI,Groceries,718.57,Success,Web,True
+TXN00476,2026-08-30,08:33:00,CUST0018,Bengaluru,Credit Card,Shopping,356.14,Success,Android,True
+TXN00477,2026-06-27,11:02:00,CUST0133,Bengaluru,UPI,Utilities,603.82,Success,Android,True
+TXN00478,2026-05-23,18:28:00,CUST0084,Mumbai,UPI,Food Delivery,91.04,Success,Android,True
+TXN00479,2026-09-28,04:49:00,CUST0045,Mumbai,Credit Card,Groceries,655.07,Success,Web,False
+TXN00480,2026-05-31,04:39:00,CUST0052,Bengaluru,UPI,Groceries,614.37,Success,Android,True
+TXN00481,2026-06-25,18:07:00,CUST0043,Bengaluru,Mobile Wallet,Travel,2209.78,Failed,iOS,False
+TXN00482,2026-02-27,04:12:00,CUST0121,Hyderabad,Debit Card,Healthcare,3238.36,Success,iOS,False
+TXN00483,2026-07-23,18:51:00,CUST0092,Mumbai,Debit Card,Food Delivery,523.76,Success,Android,False
+TXN00484,2026-08-12,11:58:00,CUST0132,Bengaluru,UPI,Shopping,2918.84,Success,Android,False
+TXN00485,2026-07-05,23:45:00,CUST0046,Hyderabad,UPI,Shopping,1278.24,Success,Android,True
+TXN00486,2026-05-17,00:05:00,CUST0071,Bengaluru,Net Banking,Shopping,1210.85,Success,iOS,True
+TXN00487,2026-02-24,22:37:00,CUST0019,Bengaluru,UPI,Food Delivery,426.96,Success,Android,False
+TXN00488,2026-01-10,05:49:00,CUST0146,Hyderabad,UPI,Groceries,700.6,Success,Android,True
+TXN00489,2026-06-21,00:38:00,CUST0077,Mumbai,UPI,Utilities,181.13,Success,iOS,True
+TXN00490,2026-07-06,17:35:00,CUST0083,Mumbai,Debit Card,Shopping,2021.5,Success,Android,False
+TXN00491,2026-07-30,12:28:00,CUST0063,Delhi,Credit Card,Shopping,2213.93,Success,Web,False
+TXN00492,2026-09-17,20:14:00,CUST0041,Delhi,Debit Card,Food Delivery,379.34,Success,Android,False
+TXN00493,2026-05-16,02:16:00,CUST0143,Delhi,Debit Card,Healthcare,1077.76,Success,Android,True
+TXN00494,2026-08-15,01:44:00,CUST0074,Bengaluru,UPI,Travel,2120.19,Failed,Android,True
+TXN00495,2026-07-15,13:04:00,CUST0102,Chennai,Net Banking,Shopping,2024.91,Success,Android,False
+TXN00496,2026-03-17,21:05:00,CUST0006,Mumbai,UPI,Food Delivery,437.16,Success,Android,False
+TXN00497,2026-08-19,09:23:00,CUST0042,Bengaluru,Credit Card,Education,4070.9,Success,iOS,False
+TXN00498,2026-01-15,19:46:00,CUST0121,Mumbai,UPI,Healthcare,2526.85,Success,Android,False
+TXN00499,2026-06-13,21:39:00,CUST0014,Bengaluru,Mobile Wallet,Groceries,563.9,Success,Android,True
+TXN00500,2026-09-14,20:35:00,CUST0016,Mumbai,UPI,Healthcare,1351.04,Success,Android,False
